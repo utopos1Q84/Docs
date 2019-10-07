@@ -87,4 +87,137 @@ This permit is valid for 2 years and after that one can apply for Stamp 4 in ord
 <h3 id="step3-citizenship">Step3: Citizenship</h3>
 <p>As most EU countries, one can apply for Irish citizenship after 5 years of residing in Ireland.</p>
 <h1 id="canada">Canada</h1>
+<p>Canada immigration is point based. Its immigration policy is the most transparent, reasonable and operable.<br>
+<a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/criteria-comprehensive-ranking-system/grid.html">Here</a> is the score criteria .<br>
+The <a href="https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html">mapping</a> between IELTS and CLB :</p>
+
+<table>
+<thead>
+<tr>
+<th>Points</th>
+<th>CLB Level</th>
+<th>Reading</th>
+<th>Writing</th>
+<th>Listening</th>
+<th>Speaking</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>34</td>
+<td>10</td>
+<td>8.0</td>
+<td>7.5</td>
+<td>8.5</td>
+<td>7.5</td>
+</tr>
+<tr>
+<td>31</td>
+<td>9</td>
+<td>7.0</td>
+<td>7.0</td>
+<td>8.0</td>
+<td>7.0</td>
+</tr>
+<tr>
+<td>23</td>
+<td>8</td>
+<td>6.5</td>
+<td>6.5</td>
+<td>7.5</td>
+<td>6.5</td>
+</tr>
+<tr>
+<td>17</td>
+<td>7</td>
+<td>6.0</td>
+<td>6.0</td>
+<td>6.0</td>
+<td>6.0</td>
+</tr>
+<tr>
+<td>9</td>
+<td>6</td>
+<td>5.0</td>
+<td>5.5</td>
+<td>5.5</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>5</td>
+<td>4.0</td>
+<td>5.0</td>
+<td>5.0</td>
+<td>5.0</td>
+</tr>
+<tr>
+<td>6</td>
+<td>4</td>
+<td>3.5</td>
+<td>4.0</td>
+<td>4.5</td>
+<td>4.0</td>
+</tr>
+</tbody>
+</table><p>Currently for me, the points are :</p>
+
+<table>
+<thead>
+<tr>
+<th>factor</th>
+<th>points</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Age</td>
+<td>66</td>
+</tr>
+<tr>
+<td>Education</td>
+<td>150</td>
+</tr>
+<tr>
+<td>Language</td>
+<td>(depends on exam, aiming at CLB 9) 31</td>
+</tr>
+<tr>
+<td>Second Official Language</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Canada Work Experience</td>
+<td>0</td>
+</tr>
+<tr>
+<td>CLB 9 + Ph.D.</td>
+<td>50</td>
+</tr>
+<tr>
+<td>CLB + CA Work Experience</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Foreign work experience + CLB 7</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Canada experience + CLB 7</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Certificate + CLB 7</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Arranged Job</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Total within Aim</td>
+<td>541</td>
+</tr>
+</tbody>
+</table><p>Need to get a job in CAN !</p>
 
